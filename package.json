@@ -1,0 +1,13 @@
+{
+  "name": "powerup",
+  "version": "1.0.0",
+  "main": "powerup.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node powerup.js"
+  },
+  "dependencies": {
+    "eosjs": "^22.1.0",
+    "node-fetch": "^2.6.7"
+  }
+}
